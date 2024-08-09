@@ -1,13 +1,18 @@
 <h1 align="center">Hi, I’m Aleksandra Geric </h1> 
-<p align="center">Software Developer & Cybersecurity enthusiast</p>
 <a href="https://linkedin.com/in/ageric"><p align="center"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></p></a>
+
+<br />
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gericx&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
 
 <br />
 <br />
 
 <h2>Short intorduction</h2>
  
-<p>Graduate degree in economics and postgraduate degree in software and information engineering. Highly enthusiastic in areas of cybersecurity and networking. Enjoy :video_game: </p>
+<p>Graduate degree in economics and postgraduate degree in software and information engineering.</p>
+<p></p>Highly enthusiastic in areas of cybersecurity and networking.</p>
  
 
  <br />
